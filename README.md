@@ -134,10 +134,12 @@
 
 Готово
 
-![](./screen/Screenshot_23.png)
-
 
 ## 4. Добавление репозитория на [github.com](https://github.com)
+
+Нажимаем ```Система управления версиями```
+
+![](./screen/Screenshot_23.png)
 
 Нажимаем ```Инициализировать репозиторий```
 
@@ -169,7 +171,7 @@
 
 Нажимаем ```Authorize Visual-Studio-Code```
 
-![](./screen/Screenshot_35.png)
+![](./screen/Screenshot_33.png)
 
 Нажимаем ```Open``` или ```Открыть```
 
